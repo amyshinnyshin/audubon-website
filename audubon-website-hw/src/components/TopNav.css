@@ -1,0 +1,11 @@
+.top-nav-container {
+    background-color: white;
+    border-bottom: 1px solid rgb(220, 220, 220);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.audubon-society-logo {
+    height: 40px;
+    padding: 16px 64px 16px 64px;
+}
